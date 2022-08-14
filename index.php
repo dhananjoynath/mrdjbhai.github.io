@@ -235,7 +235,7 @@
   
     
     
-    <script src="script.js"></script>
+    <script src="https://raw.githubusercontent.com/dhananjoynath/mrdjbhai.github.io/index/script.js"></script>
     
     
           
