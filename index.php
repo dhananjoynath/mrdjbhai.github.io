@@ -31,63 +31,6 @@
 
 <div id="battery_icon"> </div>
 
-<div id="cont" data-pct ="">
-
-
-          <span id="demo"></span>
-
-
-            <svg id="svg" width="200" height="200" viewPort="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg">
-            
-            
-            <defs>
-            <linearGradient id="GradientColor">
-               <stop offset="0%" stop-color="#e91e63" />
-               <stop offset="50%" stop-color="brown" />
-               <stop offset="100%" stop-color="#673ab7" />
-            </linearGradient>
-         </defs>
-         
-         <g id="djbhai_circle">
-         
-         
-              <circle id="bar2" r="90" cx="100" cy="100" fill="transparent" stroke-dasharray="565.48" stroke-dashoffset="0" stroke-width="5"></circle>
-             
-             
-              <circle  id="bar" r="90" cx="100" cy="100"  fill="transparent" stroke-dasharray="565" stroke-dashoffset="565" stroke-width="5" stroke-linecap="round"></circle>
-              
-         
-         <circle  id="clock_second_fill" cx="90" cy="50" r="20"  fill="transparent"  stroke-linecap="round" stroke-width="5"></circle>
-         
-
-         <circle   id="svg_clock_minutes" cx="70" cy="150" r="20" stroke="red" fill="transparent"  stroke-linecap="round" stroke-width="1"></circle>
-         
-         
-         <circle id="clock_second"  cx="130" cy="150" r="20"  fill="black"  stroke-linecap="round" stroke-width="1" stroke="red"></circle>
-         
-         
-         
-         <circle  id="svg_clock_hour" cx="100" cy="50" r="20" stroke="red"  fill="transparent"  stroke-linecap="round" stroke-width="1"></circle>
-         
-         
-         
-              
-              <text  x="30%" y="150px" stroke="none" stroke-width=".5px" dy=".3em" fill="black" font-size="10px"> S</text>
-              <text x="120" y="150px" stroke="none" stroke-width=".5px" dy=".3em" fill="black" font-size="10px"> M</text>
-              <text  x="90" y="50px" stroke="none" stroke-width=".5px" dy=".3em" fill="black" font-size="10px"> H</text>
-              
-              </g>
- 
-</svg>
-              
-              
-            </svg>
-            
-
-
-            
-            </div>
-          
   
   <img class="hide" id="mylogo" width="300px"  src="djbhai_logo.svg">
 	
